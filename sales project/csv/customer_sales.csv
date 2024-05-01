@@ -1,0 +1,15 @@
+cust_id,first_name,last_name,email,phone,primary_pincode,gender,dob,joining_date
+10000001,Rahul,Gupta,rahul.gupta@gmail.com,8960722319,110001,male,02-12-1977,19-02-2016
+10000002,Abhinav,Sharma,abhinav.sharma@gmail.com,8857852863,400001,male,20-09-1995,01-10-2016
+10000003,Anubhav,Patel,anubhav.patel@gmail.com,8492146048,560001,male,26-12-1986,16-08-2018
+10000004,Neha,Verma,neha.verma@gmail.com,8631861914,600001,female,20-01-2002,28-07-2009
+10000005,John,Bernard,john.bernard@gmail.com,8215391844,500001,male,,05-03-2017
+10000006,Muhammad,Ali,muhammad.ali@gmail.com,8317878411,700001,male,29-09-1981,13-03-2019
+10000007,Ahmed,Khan,ahmed.khan@gmail.com,8279227825,110001,male,14-01-1999,18-07-2018
+10000008,Paras,Rana,paras.rana@gmail.com,8134672373,400001,male,20-09-1985,23-02-2015
+10000009,Priyanka,Reddy,priyanka.reddy@yahoo.com,8156273277,560001,female,26-08-1992,24-11-2010
+10000010,Amit,Vikram,amit.vikram@yahoo.com,8204474821,600001,male,03-04-1996,25-08-2013
+10000011,Sandhya,Anwar,sandhya.anwar@outlook.com,8700166174,500001,female,11-04-2002,08-03-2009
+10000012,Robert,Smith,robert.smith@outlook.com,8933123477,700001,male,,16-11-2017
+10000013,Christina,Smith,christina.smith@outlook.com,8861486813,700001,female,16-04-1980,30-11-2009
+10000014,Amanpreet,Singh,amanpreet.singh@yahoo.com,8153506539,110001,male,10-03-1980,29-08-2008
